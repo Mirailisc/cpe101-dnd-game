@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-DnD Test 1-1.0";
 const contentToCache = [
-    "Build/DnD Build.loader.js",
-    "Build/DnD Build.framework.js",
-    "Build/DnD Build.data",
-    "Build/DnD Build.wasm",
+    "Build/game.loader.js",
+    "Build/game.framework.js.br",
+    "Build/game.data.br",
+    "Build/game.wasm.br",
     "TemplateData/style.css"
 
 ];
