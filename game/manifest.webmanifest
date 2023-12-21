@@ -1,6 +1,6 @@
 {
-    "name": "DnD Test 1",
-    "short_name": "DnD Test 1",
+    "name": "DnD mini Multiplayer",
+    "short_name": "DnD mini Multiplayer",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",

@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-DnD Test 1-1.0";
+const cacheName = "CPE KMUTT-DnD mini Multiplayer-1.0";
 const contentToCache = [
     "Build/game.loader.js",
     "Build/game.framework.js",
